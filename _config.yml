@@ -14,16 +14,16 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Michael Owen Maoga # the main title
+title: "Michael Owen Maoga" # the main title
 
-tagline: Cloud Associate Engineer | Mobile Developer | AI # it will display as the subtitle
+tagline: "Cloud Associate Engineer | Mobile Developer | AI" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  My journey and projects in Infosec, AI, and Digital forensics
+  "My journey and projects in Infosec, AI, and Digital forensics"
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: https://github.com/Eng-Maoga/Eng-Maoga.github.io
+url: "https://github.com/Eng-Maoga/Eng-Maoga.github.io"
 
 github:
   username: Eng-Maoga # change to your GitHub username
@@ -39,9 +39,9 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/@OwenBallondor # change to your Twitter homepage
-    - https://github.com/Eng-Maog # change to your GitHub homepage
+    - https://github.com/Eng-Maoga # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+     https://www.linkedin.com/in/michaelowenmaoga/
 
 # Site Verification Settings
 webmaster_verifications:
